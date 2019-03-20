@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  hjk:
+    title: hjk
+    output: true
 defaults:
 - scope:
     path: ''
